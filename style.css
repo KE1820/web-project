@@ -1,0 +1,29 @@
+#header{
+  width: 1000px;
+  height: 159px;
+  background: blue;
+}
+
+#menu{
+  width: 300px;
+  float: left;
+  background: green;
+}
+
+#content{
+  float: right;
+  background: orange;
+  width: 700px;
+}
+
+#page{
+  width: 1000px;
+  text-align: center;
+  border: 1px solid black;
+  position: absolute;
+  left: 50%;
+  margin-left: -500px;
+}
+.middle{
+  vertical-align: middle;
+}
